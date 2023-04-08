@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zhouche/cmake/build/src",
+  "command": "/usr/bin/clang++-12    -g -fvisibility=hidden -fvisibility-inlines-hidden   -std=c++17 -o CMakeFiles/test.dir/cmake.cpp.o -c /home/zhouche/cmake/src/cmake.cpp",
+  "file": "/home/zhouche/cmake/src/cmake.cpp"
+}
+]
